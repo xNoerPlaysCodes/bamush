@@ -1,0 +1,3 @@
+/home/noerlol/C-Projects/bamush/cmake-build-debug/CMakeFiles/bamush.dir
+/home/noerlol/C-Projects/bamush/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/noerlol/C-Projects/bamush/cmake-build-debug/CMakeFiles/rebuild_cache.dir

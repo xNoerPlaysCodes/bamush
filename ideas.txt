@@ -1,0 +1,6 @@
+--------- bamush --------
+* Proper shell with a .bamushrc and a .bamush_history file
+* Uses /bin binaries
+* Properly customizable
+* Uses a custom scripting language called bamscript for .bsh files but can use normal bash for .bshx files
+-------------------------
